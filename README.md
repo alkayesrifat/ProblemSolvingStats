@@ -7,10 +7,10 @@
 | CodeChef | [focus_magpies](https://www.codechef.com/users/focus_magpies) | 307 |
 | Vjudge | [alkayesrifat](https://vjudge.net/user/alkayesrifat) | 126 |
 | LeetCode | [alkayesrifat](https://leetcode.com/u/alkayesrifat/) | 75 |
-| AtCoder | [alkayesrifat](https://atcoder.jp/users/alkayesrifat) | 27 |
+| AtCoder | [alkayesrifat](https://atcoder.jp/users/alkayesrifat) | 30 |
 | Code360 | [alkayesrifat](https://www.naukri.com/code360/profile/alkayesrifat) | 20 |
 | KEP.uz | [alkayesrifat](https://kep.uz/users/user/alkayesrifat) | 14 |
 | Toph | [alkayesrifat](https://toph.co/u/alkayesrifat) | 3 |
-| Total | | 987 |
+| Total | | 990 |
 
 Last Updated: 17 September , 2025
