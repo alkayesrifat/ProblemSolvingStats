@@ -10,9 +10,9 @@
 | CSES | [alkayesrifat](https://cses.fi/user/317773) | 26 |
 | Code360 | [alkayesrifat](https://www.naukri.com/code360/profile/alkayesrifat) | 20 |
 | KEP.uz | [alkayesrifat](https://kep.uz/users/user/alkayesrifat) | 14 |
-| Toph | [alkayesrifat](https://toph.co/u/alkayesrifat) | 3 |
+| Toph | [alkayesrifat](https://toph.co/u/alkayesrifat) | 4 |
 | GeeksforGeeks | [alkayesrifat](https://www.geeksforgeeks.org/user/alkayesrifat) | 7 |
 | Vjudge | [alkayesrifat](https://vjudge.net/user/alkayesrifat) | 199 |
-| Total | | 1155 |
+| Total | | 1156 |
 
 Last Updated: 23 October , 2025
