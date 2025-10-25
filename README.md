@@ -12,7 +12,7 @@
 | KEP.uz | [alkayesrifat](https://kep.uz/users/user/alkayesrifat) | 14 |
 | Toph | [alkayesrifat](https://toph.co/u/alkayesrifat) | 4 |
 | GeeksforGeeks | [alkayesrifat](https://www.geeksforgeeks.org/user/alkayesrifat) | 7 |
-| Vjudge | [alkayesrifat](https://vjudge.net/user/alkayesrifat) | 199 |
-| Total | | 1156 |
+| Vjudge | [alkayesrifat](https://vjudge.net/user/alkayesrifat) | 225 |
+| Total | | 1182 |
 
 Last Updated: 23 October , 2025
