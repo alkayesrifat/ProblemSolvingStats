@@ -13,8 +13,8 @@
 | GeeksforGeeks | [alkayesrifat](https://www.geeksforgeeks.org/user/alkayesrifat) | 7 |
 | Toph | [alkayesrifat](https://toph.co/u/alkayesrifat) | 4 |
 | HackerRank | [alkayesrifat47](https://www.hackerrank.com/profile/alkayesrifat47) | 3 |
-| LightOJ | [alkayesrifat](https://lightoj.com/user/alkayesrifat) | 1 |
+| LightOJ | [alkayesrifat](https://lightoj.com/user/alkayesrifat) | 2 |
 | RoboContest | [alkayesrifat](https://robocontest.uz/profile/alkayesrifat) | 1 |
-| Total | | 1056 |
+| Total | | 1057 |
 
 Last Updated: 25 November , 2025
