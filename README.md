@@ -3,8 +3,8 @@
 
 | OJ | Username | Solve Count |
 | -- | -------- | ----------- |
-| Codeforces | [alkayesrifat](https://codeforces.com/profile/alkayesrifat) | 479 |
-| CodeChef | [focus_magpies](https://www.codechef.com/users/focus_magpies) | 352 |
+| Codeforces | [alkayesrifat](https://codeforces.com/profile/alkayesrifat) | 483 |
+| CodeChef | [focus_magpies](https://www.codechef.com/users/focus_magpies) | 353 |
 | LeetCode | [alkayesrifat](https://leetcode.com/u/alkayesrifat) | 96 |
 | AtCoder | [alkayesrifat](https://atcoder.jp/users/alkayesrifat) | 48 |
 | CSES | [alkayesrifat](https://cses.fi/user/317773) | 26 |
@@ -14,6 +14,7 @@
 | Toph | [alkayesrifat](https://toph.co/u/alkayesrifat) | 4 |
 | HackerRank | [alkayesrifat47](https://www.hackerrank.com/profile/alkayesrifat47) | 3 |
 | LightOJ | [alkayesrifat](https://lightoj.com/user/alkayesrifat) | 1 |
-| Total | | 1050 |
+| RoboContest | [alkayesrifat](https://robocontest.uz/profile/alkayesrifat) | 1 |
+| Total | | 1056 |
 
-Last Updated: 23 November , 2025
+Last Updated: 25 November , 2025
