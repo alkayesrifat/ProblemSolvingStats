@@ -15,6 +15,7 @@
 | HackerRank | [alkayesrifat47](https://www.hackerrank.com/profile/alkayesrifat47) | 3 |
 | LightOJ | [alkayesrifat](https://lightoj.com/user/alkayesrifat) | 2 |
 | RoboContest | [alkayesrifat](https://robocontest.uz/profile/alkayesrifat) | 1 |
-| Total | | 1074 |
+| QOJ.ac | [alkayesrifat](https://qoj.ac/user/profile/alkayesrifat) | 1 |
+| Total | | 1075 |
 
 Last Updated: 05 December , 2025
