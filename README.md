@@ -7,7 +7,7 @@
 | CodeChef | [alkayesrifat](https://www.codechef.com/users/alkayesrifat) | 365 |
 | LeetCode | [alkayesrifat](https://leetcode.com/u/alkayesrifat) | 96 |
 | AtCoder | [alkayesrifat](https://atcoder.jp/users/alkayesrifat) | 49 |
-| CSES | [alkayesrifat](https://cses.fi/user/317773) | 26 |
+| CSES | [alkayesrifat](https://cses.fi/user/317773) | 27 |
 | Code360 | [alkayesrifat](https://www.naukri.com/code360/profile/alkayesrifat) | 20 |
 | KEP.uz | [alkayesrifat](https://kep.uz/users/user/alkayesrifat) | 14 |
 | GeeksforGeeks | [alkayesrifat](https://www.geeksforgeeks.org/user/alkayesrifat) | 7 |
