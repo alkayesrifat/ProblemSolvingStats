@@ -18,6 +18,7 @@
 | SPOJ | [alkayesrifat](https://www.spoj.com/users/alkayesrifat) | 2 |
 | RoboContest | [alkayesrifat](https://robocontest.uz/profile/alkayesrifat) | 1 |
 | QOJ.ac | [alkayesrifat](https://qoj.ac/user/profile/alkayesrifat) | 1 |
-| Total | | 1147 |
+| Baekjoon | [alkayesrifat](https://www.acmicpc.net/user/alkayesrifat) | 1 |
+| Total | | 1148 |
 
 Last Updated: 06 January , 2026
