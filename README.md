@@ -3,10 +3,10 @@
 
 | OJ | Username | Solve Count |
 | -- | -------- | ----------- |
-| Codeforces | [alkayesrifat](https://codeforces.com/profile/alkayesrifat) | 580 |
-| CodeChef | [alkayesrifat](https://www.codechef.com/users/alkayesrifat) | 372 |
-| LeetCode | [alkayesrifat](https://leetcode.com/u/alkayesrifat) | 101 |
-| AtCoder | [alkayesrifat](https://atcoder.jp/users/alkayesrifat) | 70 |
+| Codeforces | [alkayesrifat](https://codeforces.com/profile/alkayesrifat) | 598 |
+| CodeChef | [alkayesrifat](https://www.codechef.com/users/alkayesrifat) | 373 |
+| LeetCode | [alkayesrifat](https://leetcode.com/u/alkayesrifat) | 105 |
+| AtCoder | [alkayesrifat](https://atcoder.jp/users/alkayesrifat) | 72 |
 | CSES | [alkayesrifat](https://cses.fi/user/317773) | 28 |
 | Code360 | [alkayesrifat](https://www.naukri.com/code360/profile/alkayesrifat) | 20 |
 | KEP.uz | [alkayesrifat](https://kep.uz/users/alkayesrifat) | 14 |
@@ -20,6 +20,6 @@
 | RoboContest | [alkayesrifat](https://robocontest.uz/profile/alkayesrifat) | 1 |
 | QOJ.ac | [alkayesrifat](https://qoj.ac/user/profile/alkayesrifat) | 1 |
 | Baekjoon | [alkayesrifat](https://www.acmicpc.net/user/alkayesrifat) | 1 |
-| Total | | 1223 |
+| Total | | 1248 |
 
-Last Updated: 24 January , 2026
+Last Updated: 29 January , 2026
