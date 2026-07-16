@@ -3,14 +3,14 @@
 
 | OJ | Username | Solve Count |
 | -- | -------- | ----------- |
-| Codeforces | [alkayesrifat](https://codeforces.com/profile/alkayesrifat) | 730 |
+| Codeforces | [alkayesrifat](https://codeforces.com/profile/alkayesrifat) | 740 |
 | CodeChef | [alkayesrifat](https://www.codechef.com/users/alkayesrifat) | 389 |
-| LeetCode | [alkayesrifat](https://leetcode.com/u/alkayesrifat) | 113 |
-| AtCoder | [alkayesrifat](https://atcoder.jp/users/alkayesrifat) | 83 |
+| LeetCode | [alkayesrifat](https://leetcode.com/u/alkayesrifat) | 114 |
+| AtCoder | [alkayesrifat](https://atcoder.jp/users/alkayesrifat) | 86 |
 | CSES | [alkayesrifat](https://cses.fi/user/317773) | 28 |
 | Code360 | [alkayesrifat](https://www.naukri.com/code360/profile/alkayesrifat) | 20 |
 | KEP.uz | [alkayesrifat](https://kep.uz/users/alkayesrifat) | 15 |
-| Eolymp  | [alkayesrifat](https://eolymp.com/en/users/alkayesrifat) | 10 |
+| Eolymp  | [alkayesrifat](https://eolymp.com/en/users/alkayesrifat) | 13 |
 | Toph | [alkayesrifat](https://toph.co/u/alkayesrifat) | 9 |
 | GeeksforGeeks | [alkayesrifat](https://www.geeksforgeeks.org/user/alkayesrifat) | 7 |
 | HackerRank | [alkayesrifat](https://www.hackerrank.com/profile/alkayesrifat) | 7 |
@@ -20,6 +20,6 @@
 | RoboContest | [alkayesrifat](https://robocontest.uz/profile/alkayesrifat) | 1 |
 | QOJ.ac | [alkayesrifat](https://qoj.ac/user/profile/alkayesrifat) | 1 |
 | Baekjoon | [alkayesrifat](https://www.acmicpc.net/user/alkayesrifat) | 1 |
-| Total | | 1428 |
+| Total | | 1445 |
 
-Last Updated: 3 July , 2026
+Last Updated: 17 July , 2026
