@@ -14,7 +14,7 @@
 | Toph | [alkayesrifat](https://toph.co/u/alkayesrifat) | 9 |
 | GeeksforGeeks | [alkayesrifat](https://www.geeksforgeeks.org/user/alkayesrifat) | 7 |
 | HackerRank | [alkayesrifat](https://www.hackerrank.com/profile/alkayesrifat) | 7 |
-| SeriousOJ | [1248](https://serious-oj.com/user/1248) | 7 |
+| SeriousOJ | [alkayesrifat](https://serious-oj.com/user/alkayesrifat) | 7 |
 | LightOJ | [alkayesrifat](https://lightoj.com/user/alkayesrifat) | 4 |
 | SPOJ | [alkayesrifat](https://www.spoj.com/users/alkayesrifat) | 3 |
 | RoboContest | [alkayesrifat](https://robocontest.uz/profile/alkayesrifat) | 1 |
